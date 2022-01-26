@@ -1,2 +1,2 @@
-# dijkstra_visualizer
-Visualizes Dijkstra's algorithm. 
+# Try this Here
+https://ryang3881.github.io/dijkstra_visualizer/
